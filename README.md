@@ -1,4 +1,4 @@
-# InvernaderoAzureIoTCentral
+# Invernadero en Azure IoT Central
 Este es el código utilizado en una ESP32 para un invernadero conectado a Azure IoT Central. El framework utilizado es Arduino.
 
 ## Conexiones físicas
