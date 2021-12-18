@@ -13,3 +13,4 @@ examples | Microsoft Docs. https://docs.microsoft.com/es-es/azure/iot-central/
 examples | Microsoft Docs. https://docs.microsoft.com/en-us/azure/iot-central/core/concepts-get-connected
 - GitHub - Azure/dps-keygen: Helper tool to deal with the device keys. (s. f.). GitHub. 
 https://github.com/Azure/dps-keygen
+- Se usó como referencia el siguinte repositorio https://github.com/critchards/ESP32-Azure-Iot-Central/blob/main/src/main.cpp
